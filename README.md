@@ -1,4 +1,4 @@
-La aplicación:
+Este proyecto es parte de la enseñanza del curso de Java de Alura Latam.
 
 Utiliza el framework Spring para estructurar y gestionar el proyecto de línea de comandos, aprovechando las características que proporciona Spring para facilitar el desarrollo y la gestión de componentes.
 Realiza la deserialización de datos con la biblioteca Jackson para convertir datos en formato JSON (posiblemente información sobre películas o series) en objetos Java para su manipulación en la aplicación.
